@@ -1,0 +1,42 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "race-scraper-toolkit"
+version = "0.1.0"
+description = "A modular toolkit for scraping endurance race calendars from public sources — three spiders, three techniques."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.12"
+authors = [{ name = "race-scraper-toolkit contributors" }]
+keywords = ["scrapy", "scraping", "running", "race", "marathon", "ultra", "endurance"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+    "scrapy>=2.11",
+    "rapidfuzz>=3.6",
+    "pydantic>=2.6",
+    "typer>=0.12",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[project.scripts]
+racescraper = "racescraper.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["racescraper"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,282 @@
+[
+  {
+    "source": "worldathletics",
+    "source_id": "7235565",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "C&D Xiamen Marathon",
+    "name_en": "C&D Xiamen Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-01-11",
+    "city": "Xiamen",
+    "country": "CN",
+    "event_type": "marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Marathon", "distance_km": 42.195, "elevation_gain": null}
+    ],
+    "tags": ["Platinum Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235565",
+      "venue": "Xiamen (CHN)",
+      "competitionSubgroup": "Platinum",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  },
+  {
+    "source": "worldathletics",
+    "source_id": "7235101",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "Tokyo Marathon",
+    "name_en": "Tokyo Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-03-01",
+    "city": "Tokyo",
+    "country": "JP",
+    "event_type": "marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Marathon", "distance_km": 42.195, "elevation_gain": null}
+    ],
+    "tags": ["Platinum Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235101",
+      "venue": "Tokyo (JPN)",
+      "competitionSubgroup": "Platinum",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  },
+  {
+    "source": "worldathletics",
+    "source_id": "7235202",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "Boston Marathon",
+    "name_en": "Boston Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-04-20",
+    "city": "Boston",
+    "country": "US",
+    "event_type": "marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Marathon", "distance_km": 42.195, "elevation_gain": null}
+    ],
+    "tags": ["Platinum Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235202",
+      "venue": "Boston, MA (USA)",
+      "competitionSubgroup": "Platinum",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  },
+  {
+    "source": "worldathletics",
+    "source_id": "7235303",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "London Marathon",
+    "name_en": "London Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-04-26",
+    "city": "London",
+    "country": "GB",
+    "event_type": "marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Marathon", "distance_km": 42.195, "elevation_gain": null}
+    ],
+    "tags": ["Platinum Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235303",
+      "venue": "London (GBR)",
+      "competitionSubgroup": "Platinum",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  },
+  {
+    "source": "worldathletics",
+    "source_id": "7235404",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "Berlin Marathon",
+    "name_en": "Berlin Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-09-27",
+    "city": "Berlin",
+    "country": "DE",
+    "event_type": "marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Marathon", "distance_km": 42.195, "elevation_gain": null}
+    ],
+    "tags": ["Platinum Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235404",
+      "venue": "Berlin (GER)",
+      "competitionSubgroup": "Platinum",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  },
+  {
+    "source": "worldathletics",
+    "source_id": "7235505",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "Chicago Marathon",
+    "name_en": "Chicago Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-10-11",
+    "city": "Chicago",
+    "country": "US",
+    "event_type": "marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Marathon", "distance_km": 42.195, "elevation_gain": null}
+    ],
+    "tags": ["Platinum Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235505",
+      "venue": "Chicago, IL (USA)",
+      "competitionSubgroup": "Platinum",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  },
+  {
+    "source": "worldathletics",
+    "source_id": "7235606",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "New York City Marathon",
+    "name_en": "New York City Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-11-01",
+    "city": "New York",
+    "country": "US",
+    "event_type": "marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Marathon", "distance_km": 42.195, "elevation_gain": null}
+    ],
+    "tags": ["Platinum Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235606",
+      "venue": "New York, NY (USA)",
+      "competitionSubgroup": "Platinum",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  },
+  {
+    "source": "worldathletics",
+    "source_id": "7235707",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "Valencia Half Marathon",
+    "name_en": "Valencia Half Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-10-25",
+    "city": "Valencia",
+    "country": "ES",
+    "event_type": "half_marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Half Marathon", "distance_km": 21.0975, "elevation_gain": null}
+    ],
+    "tags": ["Gold Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235707",
+      "venue": "Valencia (ESP)",
+      "competitionSubgroup": "Gold",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  },
+  {
+    "source": "worldathletics",
+    "source_id": "7235808",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "Sydney Marathon",
+    "name_en": "Sydney Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-08-30",
+    "city": "Sydney",
+    "country": "AU",
+    "event_type": "marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Marathon", "distance_km": 42.195, "elevation_gain": null}
+    ],
+    "tags": ["Platinum Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235808",
+      "venue": "Sydney (AUS)",
+      "competitionSubgroup": "Platinum",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  },
+  {
+    "source": "worldathletics",
+    "source_id": "7235909",
+    "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results?season=2026",
+    "name": "Copenhagen Half Marathon",
+    "name_en": "Copenhagen Half Marathon",
+    "series": "World Athletics Label Road Races",
+    "race_start_date": "2026-09-13",
+    "city": "Copenhagen",
+    "country": "DK",
+    "event_type": "half_marathon",
+    "official_url": null,
+    "registration_urls": [],
+    "distances": [
+      {"label": "Half Marathon", "distance_km": 21.0975, "elevation_gain": null}
+    ],
+    "tags": ["Gold Label", "World Athletics"],
+    "event_status": "upcoming",
+    "_quality_score": 0.65,
+    "_needs_review": true,
+    "raw_data": {
+      "world_athletics_id": "7235909",
+      "venue": "Copenhagen (DEN)",
+      "competitionSubgroup": "Gold",
+      "rankingCategory": "GW",
+      "disciplines": "Road Running"
+    }
+  }
+]
